@@ -10,11 +10,7 @@ Key Features:
 Dynamic Search:
 
 Users can enter keywords into a search bar to dynamically filter the displayed results.
-The search functionality updates in real-time, providing instant feedback as the user types.
-Filtering Options:
 
-Multiple filtering options allow users to refine their search based on specific criteria.
-Users can combine different filters to narrow down the results.
 Responsive Design:
 
 The application is designed to be responsive, ensuring optimal user experience across various devices and screen sizes.
